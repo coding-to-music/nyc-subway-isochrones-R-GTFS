@@ -1,11 +1,11 @@
 {
-  "name": "gtfs-tinker",
+  "name": "nyc-subway-isochrones-r-gtfs",
   "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "git add . && git commit -m Build && git push"
   },
   "author": "",
   "license": "ISC",
