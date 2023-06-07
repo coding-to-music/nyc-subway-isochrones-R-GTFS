@@ -30,9 +30,9 @@ git remote add origin git@github.com:coding-to-music/nyc-subway-isochrones-R-GTF
 git push -u origin main
 ```
 
-## Image of the map via https://masstrailtracker.com
+## Image of the map via https://subwaysheds.com/stop/l24/atlantic-av
 
-![mass-map-of-trails](mass-map-of-trails.png)
+![nyc-subwaysheds-example.png](img/nyc-subwaysheds-example.png)
 
 # nyc-subway-isochrones
 
